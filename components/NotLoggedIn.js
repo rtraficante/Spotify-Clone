@@ -11,7 +11,12 @@ function NotLoggedIn() {
         <h2 className="font-bold mb-4 text-xl self-center">Instructions</h2>
         <p>
           Please visit{" "}
-          <a className="hover:underline text-green-500" href="spotify.com">
+          <a
+            className="hover:underline text-green-500"
+            href="https://open.spotify.com/"
+            rel="noreferrer"
+            target="_blank"
+          >
             Spotify
           </a>{" "}
           and log in using the account details below. Play one of the songs from
