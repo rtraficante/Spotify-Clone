@@ -8,6 +8,7 @@ const nextConfig = {
       "i.scdn.co",
       "mosaic.scdn.co",
       "community.spotify.com",
+      "links.papareact.com",
     ],
   },
 };
